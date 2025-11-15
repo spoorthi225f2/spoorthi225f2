@@ -93,6 +93,6 @@ To contribute as a **Software Engineer** specializing in:
 ---
 
 ## 📬 Contact
-🔗 LinkedIn: [*your LinkedIn link*](https://www.linkedin.com/in/spoorthi-reddy-annadi-28427a259/)  
-🔗 GitHub: [*your GitHub profile link*](https://github.com/spoorthi225f2)
+🔗 LinkedIn: [*LinkedIn *](https://www.linkedin.com/in/spoorthi-reddy-annadi-28427a259/)  
+🔗 GitHub: [*GitHub*](https://github.com/spoorthi225f2)
 
