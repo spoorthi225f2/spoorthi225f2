@@ -1,48 +1,99 @@
-# Hi there 👋, I’m **Spoorthi**  
-[![GitHub followers](https://img.shields.io/github/followers/spoorthi225f2?label=Follow&style=social)](https://github.com/spoorthi225f2)  
-[![GitHub stars](https://img.shields.io/github/stars/spoorthi225f2?style=social)](https://github.com/spoorthi225f2?tab=stars)
+# 🚀 Portfolio — Spoorthi Reddy Annadi
 
-## 🔭 Currently  
-- Developing full-stack web applications using **Spring Boot**, deployed on **Apache Tomcat**.  
-- Working on a detailed project proposal for Google Summer of Code 2025: *“CARE IM Bot Integration”* — building a generic IM-wrapper and WhatsApp bot for hospital-patient interactions.  
-- Preparing for AI-focused interviews: studying key topics, solving problems, building projects.  
-- Deepening theoretical CS understanding: covering topics like CFGs, PDAs, Turing Machines, Undecidability (of UNIT IV & V, JNTU R22).  
-- Learning scripting with Tcl: control flow, loops, widgets, namespaces, regex, event handling.
-
-## 🌱 I’m currently learning  
-- Advanced microservices with Spring and container orchestration.  
-- Natural Language Processing and bot frameworks (WhatsApp integration, IM wrappers).  
-- Refining my algorithm & data structure skills (DSA) for interview readiness.  
-- Improving understanding of formal languages & automata theory.
-
-## 🧰 My Tech Stack  
-| Layer | Technologies |
-|-------|------------|
-| Backend | Java, Spring Boot, Tomcat, REST APIs |
-| Frontend | HTML5, CSS, JavaScript |
-| Scripting / Automation | Tcl (Tk) |
-| Theoretical CS | Context-Free Grammars, Pushdown Automata, Turing Machines, Undecidability |
-| Tools & Workflow | Git, GitHub, Docker (for offline CPU-only processing), VS Code / IntelliJ |
-
-## 📂 Featured Projects  
-Here are a few of my highlighted repositories:  
-- **Baby-Bloom** – A Java-based full-stack web application.  
-- **DSA-Project** – Data structures & algorithm implementation repository.  
-- **The-Hitman** – (Add a short description about this project here).  
-> For full list, check out my [repositories](https://github.com/spoorthi225f2?tab=repositories).
-
-## 🎯 My Goals  
-- Contribute to meaningful open source, particularly in healthcare-tech and AI-bots.  
-- Get selected for Google Summer of Code 2025 and deliver a high-impact project.  
-- Land a role or internship in AI or backend development where I can apply both theory and practice.  
-- Keep sharpening both my practical coding skills and theoretical CS foundations.
-
-## 💬 Let’s Connect  
-- 📧 Email: *youremail@example.com* (replace with your preferred contact)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- GitHub: [@spoorthi225f2](https://github.com/spoorthi225f2)  
-Feel free to reach out — I’m always open to collaborating, chatting about tech, or exploring new opportunities!
+Hi! I'm **Spoorthi Reddy Annadi**, an aspiring **Software Engineer** passionate about building scalable backend systems, cloud-native applications, and real-world AI/ML solutions.  
+This repository highlights my **projects, internships, skills, and accomplishments**.
 
 ---
 
-Thanks for stopping by. Happy coding! 💻
+## 🌟 Experience
+
+### **Accenture — Associate Software Engineer Intern**  
+**May 2025 – Jul 2025 | Hyderabad, India**
+
+- Automated report generation and email delivery using **Python**, reducing manual effort by **10+ hours**.  
+- Developed a **Java GUI** with secure login and data upload/download features integrated with the backend.  
+- Implemented full database export (**Excel, PDF, CSV**) and contributed to AMS team operations.
+
+---
+
+## 📌 Projects
+
+### 🟣 **Cryptocurrency Fraud Detection Using Blockchain Technology**  
+**Feb 2025 – May 2025**  
+**Tech:** Blockchain, Python
+
+- Developed an Ethereum fraud detection system to verify wallet addresses and flag suspicious activity.  
+- Implemented automated email alerts to notify users of potential fraudulent transactions.  
+- Integrated security with simulated **ECDSA**, **SHA-256 hashing**, and **Merkle Tree auditing** to ensure data integrity.
+
+---
+
+### 🟢 **Crop Data Management System**  
+**Sep 2024 – Dec 2024**  
+**Tech:** AWS RDS, Lambda, S3, EC2, REST APIs, Python
+
+- Developed a cloud-based crop yield management system using **AWS services**.  
+- Streamlined data storage, retrieval, and submission via secure **REST APIs**.  
+- Optimized system performance, improving efficiency and scalability.
+
+---
+
+### 🟠 **Baby Bloom — Full-Stack Web Application**  
+**Apr 2024 – Jun 2024**  
+**Tech:** HTML, CSS, JavaScript, Spring Boot, MySQL
+
+- Led a team to develop a user-friendly shopping platform for infants and toddlers.  
+- Managed cross-functional teams ensuring seamless integration of frontend, backend, and design.  
+- *Baby Bloom* was selected as one of the **Top 3 Best Full-Stack Projects** in college.
+
+---
+
+## 🛠 Technical Skills
+
+### **Languages**
+- Python  
+- Java  
+- C  
+- JavaScript  
+
+### **Web & Backend**
+- Spring Boot  
+- REST APIs  
+- HTML, CSS  
+
+### **Cloud**
+- AWS (RDS, Lambda, S3, EC2)  
+- Azure  
+
+### **Databases**
+- MySQL  
+- SQL  
+
+### **Tools**
+- Git, GitHub  
+- Excel & PDF Automation  
+
+---
+
+## 📜 Certifications
+- Azure Fundamentals  
+- Python & Cloud Computing  
+- Machine Learning Basics  
+- Blockchain Fundamentals  
+
+---
+
+## 🎯 Career Goal
+To contribute as a **Software Engineer** specializing in:  
+- Cloud-native applications  
+- Distributed systems  
+- Backend development  
+- AI-driven automation  
+
+---
+
+## 📬 Contact
+📧 Email: *your email here*  
+🔗 LinkedIn: *your LinkedIn link*  
+🔗 GitHub: *your GitHub profile link*
+
